@@ -15,5 +15,22 @@ This solution presents simple algorithms and a visual representation to the give
 ## Test 0: The first condition
 
 The first test and costless is the size. 
+
 If the provided data has different sizes no additional tests need to be performed.
+
 The data is encoded and then being test as byte arrays on next steps.
+
+<img src="http://invent4.com/git/image1.JPG" width="800">
+
+## Test 1: The safe and usual approach
+
+Running tests from the start to the end of the data is the most usual way. 
+
+With a loop from the position zero to the length of the data array we have safe results.
+The loop breaks if a difference is found.
+
+To consider the data chunks equal the entire array is tested.
+The cost of time and processing is directly related with the data size.
+
+
+

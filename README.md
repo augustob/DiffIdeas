@@ -13,6 +13,11 @@ There are plenty of ready solutions available on Nuget for comparing and diffing
 This solution doesn’t include any calls or libraries for diffing data. 
 This solution presents simple algorithms and a visual representation to the given problem.
 
+## Simple user input/edit
+
+The application presents firstly a simple user interface where the data can be typed, read or edited. There is an option to read Json data from embedded examples.
+
+
 ## Test 0: The first condition
 
 The first test and costless is the size. 

@@ -89,13 +89,7 @@ Performing more complex tests with bigger volume of data is the important stage 
 
 Understanding the pattern of where errors are often found (according to the data being compared), could make these approaches valid. 
 
-The application can only return EQUAL with safety after testing the entire array of data. Considering this premise true, trying to find the errors earlier is the main suggestion for a performance increase on these algorithms.
-
-
-
-
-
-
+The application can only return EQUAL with safety after testing the entire array of data. Considering this premise true, trying to find the errors earlier is the main suggestion for a performance increase on this type of algorithms.
 
 
 

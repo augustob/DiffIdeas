@@ -22,9 +22,7 @@ The application presents firstly a simple user interface where the data can be t
 
 ## Test 0: The first condition
 
-The first test and costless is the size. 
-
-If the provided data has different sizes no additional tests need to be performed.
+The first test is the size. If the provided data has different sizes no additional tests need to be performed.
 
 If data sizes are equal, the data is encoded and then being test as byte arrays on next steps.
 

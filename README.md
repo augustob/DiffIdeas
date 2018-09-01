@@ -6,12 +6,12 @@ This is an experiment about how to compare data (byte arrays) in a more efficien
 Given that we have two data chunks to compare, "left" and "right", the solution should return if the data is equal or different. 
 The input data is entered in Json.
   
-This experiment goes to the basis of data comparison, playing with ideas trying to improve the efficiency. 
+This experiment goes to the basis of data comparison, playing with ideas and trying to improve the efficiency. 
 
 Not being a specialist on this subject, I’m sharing my first insights with this experiment.
 There are plenty of ready solutions available on Nuget for comparing and diffing Json data.
 This solution doesn’t include any calls or libraries for diffing data. 
-This solution presents simple algorithms and a visual representation to the given problem.
+This solution presents simple algorithms and a visual representation to the given problem and suggestions.
 
 ## Simple user input/edit
 

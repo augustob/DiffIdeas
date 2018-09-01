@@ -58,6 +58,16 @@ The intention is testing optimized ways to early detect differences, which will 
 This third test is performed by the solution and the measures of loop iterations and time are computed.
 
 
+## Test 4: Hash compare
+
+This test is based on calculating the hash of both data chunks. The hashes are then compared to define equal or not. 
+
+Hashing the files is being performed with XOR and requires the entire data processing for comparison. 
+
+The solution performs this test and compute the measures of loop iterations and time consumed.
+
+
+
 
 
 

@@ -39,7 +39,7 @@ The loop breaks if a difference is found. The entire array is tested to consider
 The solution performs this test and presents the measures of loop interactions and time cost for the operation.
 
 
-## Test2: Forward and Backward
+## Test 2: Forward and Backward
 
 This approach tests the data array with two fronts. 
 While performing tests form the start to the end a second test is performed from end to the start.

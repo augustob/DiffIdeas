@@ -28,7 +28,7 @@ If the provided data has different sizes no additional tests need to be performe
 
 If data sizes are equal, the data is encoded and then being test as byte arrays on next steps.
 
-<img src="http://invent4.com/git/image1.JPG" width="700">
+<img src="http://invent4.com/git/image1b.JPG" width="700">
 
 
 ## Test 1: The safe and usual approach

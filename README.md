@@ -40,9 +40,25 @@ The solution performs this test and presents the measures of loop interactions a
 
 This approach tests the data array with two fronts. 
 While performing tests form the start to the end a second test is performed from end to the start.
+
 The intention is optimizing the chances of early detection of different data pairs.
 
 Considering data chunks where the differences are at the end part of the array this test will detect this earlier.
+
+The solution performs this test and presents the measures of loop interactions and time cost for the operation.
+
+
+## Test 3: Middle to the edges
+
+This approach uses two testing fronts again but starting on the middle of the data array to the edges.
+
+The intention is testing optimized ways to early detect differences, which will improve solution’s performance.
+
+This third test is performed by the solution and the measures of loop iterations and time are computed.
+
+
+
+
 
 
 

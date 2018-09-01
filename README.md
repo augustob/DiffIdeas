@@ -24,7 +24,7 @@ The application presents firstly a simple user interface where the data can be t
 
 The first test is the size. If the provided data has different sizes no additional tests need to be performed.
 
-If data sizes are equal, the data is encoded and then being test as byte arrays on next steps.
+If data sizes are equal, the data is encoded and then being tested as byte arrays on next steps.
 
 <img src="http://invent4.com/git/image1b.JPG" width="700">
 

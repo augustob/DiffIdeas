@@ -32,5 +32,8 @@ The loop breaks if a difference is found.
 To consider the data chunks equal the entire array is tested.
 The cost of time and processing is directly related with the data size.
 
+The solution performs this test and presents the measures of loop interactions and time cost for the operation.
+
+
 
 

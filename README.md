@@ -38,6 +38,8 @@ The loop breaks if a difference is found. The entire array is tested to consider
 
 The solution performs this test and presents the measures of loop interactions and time cost for the operation.
 
+<img src="http://invent4.com/git/imaget1.JPG" width="700">
+
 
 ## Test 2: Forward and Backward
 

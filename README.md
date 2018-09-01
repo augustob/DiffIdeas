@@ -10,7 +10,7 @@ There are plenty of ready solutions available on Nuget for comparing and diffing
 This solution doesn’t include any calls or libraries for diffing data. 
 This solution presents simple algorithms and a visual representation to the given problem.
 
-##Test 0: The first condition
+## Test 0: The first condition
 
 The first test and costless is the size. 
 If the provided data has different sizes no additional tests need to be performed.

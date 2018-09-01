@@ -31,7 +31,7 @@ If data sizes are equal, the data is encoded and then being tested as byte array
 
 ## Test 1: The safe and usual approach
 
-Running tests from the start to the end of the data is the most usual way. 
+Running tests from the start to the end of the data is the usual way. 
 
 With a loop from the position zero to the length of the data array we have safe results.
 The loop breaks if a difference is found. The entire array is tested to consider the data equal. 

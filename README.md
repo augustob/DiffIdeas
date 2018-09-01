@@ -75,9 +75,10 @@ Due to my game development background, the solution was built using Unity3D game
 
 This is not the appropriated approach for testing large data volumes which would allow best conclusions. 
 
-The next step is convert the algorithms, remove all user interface part, and prepare a REST version of the application. 
+The next step is convert the algorithms, remove all user interface part, and prepare a REST version of the application allowing big data tests. 
 
 Testing the suggested approaches with bigger data and analyzing the measures of time spent can lead to more important conclusions and insights.
+
 
 ## Conclusions
 

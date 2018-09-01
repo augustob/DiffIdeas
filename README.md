@@ -46,7 +46,7 @@ While performing tests form the start to the end a second test is performed from
 
 The intention is optimizing the chances of early detection of different data pairs.
 
-Considering data chunks where the differences are at the end part of the array this test will detect this earlier.
+Considering data chunks where the differences are at the end part of the array this test will detect this earlier. The additional cost of a second comparing must be considered. 
 
 The solution performs this test and presents the measures of loop interactions and time cost for the operation.
 

@@ -63,6 +63,8 @@ The intention is testing optimized ways to early detect differences, which will 
 
 This third test is performed by the solution and the measures of loop iterations and time are computed.
 
+<img src="http://invent4.com/git/imaget3.JPG" width="700">
+
 
 ## Test 4: Hash compare
 

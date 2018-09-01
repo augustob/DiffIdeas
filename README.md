@@ -52,6 +52,8 @@ Considering data chunks where the differences are at the end part of the array t
 
 The solution performs this test and presents the measures of loop interactions and time cost for the operation.
 
+<img src="http://invent4.com/git/imaget2.JPG" width="700">
+
 
 ## Test 3: Middle to the edges
 

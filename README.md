@@ -36,10 +36,7 @@ If data sizes are equal, the data is encoded and then being test as byte arrays 
 Running tests from the start to the end of the data is the most usual way. 
 
 With a loop from the position zero to the length of the data array we have safe results.
-The loop breaks if a difference is found.
-
-For considering the data chunks equal the entire array is tested. 
-The cost of time and processing is directly related with the data size.
+The loop breaks if a difference is found. The entire array is tested to consider the data equal. 
 
 The solution performs this test and presents the measures of loop interactions and time cost for the operation.
 

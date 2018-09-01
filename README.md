@@ -67,6 +67,18 @@ Hashing the files is being performed with XOR and requires the entire data proce
 The solution performs this test and compute the measures of loop iterations and time consumed.
 
 
+## Next Steps
+
+Due to my game development background, the solution was built using Unity3D game engine. This option was made to represent and test my suggestions to the given problem in a visual way.
+
+This is not the appropriated approach for testing large data volumes which would allow best conclusions. 
+
+The next step is convert the algorithms, remove all user interface part, and prepare a REST version of the application. 
+
+Testing the suggested approaches with bigger data and analyzing the measures of time spent can lead to more important conclusions and insights.
+
+
+
 
 
 

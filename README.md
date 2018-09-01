@@ -77,6 +77,17 @@ The next step is convert the algorithms, remove all user interface part, and pre
 
 Testing the suggested approaches with bigger data and analyzing the measures of time spent can lead to more important conclusions and insights.
 
+## Conclusions
+
+The different approaches of how comparing the data returned varied results but they are obviously related with where the errors are inside the array (position).
+
+The application on its actual stage don’t allows real great conclusions on the subject.
+
+Performing more complex tests with bigger volume of data is the important stage missing (today) to present useful conclusions.
+
+Understanding the pattern of where errors are often found (according to the data being compared), could make these approaches valid. 
+
+The application can only return EQUAL with safety after testing the entire array of data. Considering this premise true, trying to find the errors earlier is the main suggestion for a performance increase on these algorithms.
 
 
 
